@@ -17,9 +17,7 @@ https://apps.apple.com/vn/app/crabala/id1083059234
 
 ### Rushing Yarrd
 
-<img width="869" height="567" alt="Screenshot 2025-07-30 at 07 53 28" src="https://github.com/user-attachments/assets/c957ffa8-38b1-4866-a6fb-37489e739afd" />
-
-
+<img width="922" height="689" alt="Screenshot 2025-07-30 at 07 59 48" src="https://github.com/user-attachments/assets/feacae32-e8fe-427c-b2c7-280c492798d2" />
 
 
 https://apps.apple.com/vn/app/rushing-yard/id1034083014
