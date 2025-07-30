@@ -13,7 +13,9 @@ Câu đố cho game là:
 https://apps.apple.com/vn/app/crabala/id1083059234
 
 ### Rushing Yarrd
-![Uploading Screenshot 2025-07-30 at 07.53.28.png…]()
+
+<img width="869" height="567" alt="Screenshot 2025-07-30 at 07 53 28" src="https://github.com/user-attachments/assets/c957ffa8-38b1-4866-a6fb-37489e739afd" />
+
 
 
 
